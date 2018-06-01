@@ -94,7 +94,7 @@ input[type="submit"],a{
 }
 .agile_main_grid_left{
 	float:left;
-	width:55%;
+	width:50%;
 }
 .w3_agileits_personal_card_grid{
 	padding:3em;
@@ -109,7 +109,7 @@ input[type="submit"],a{
 }
 .agileits_w3layouts_main_grid_right{
 	float:right;
-	width:45%;
+	width:50%;
 	background: url(../images/1.jpg) no-repeat center center;
     background-size: cover;
     -webkit-background-size: cover;
